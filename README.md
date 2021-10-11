@@ -36,6 +36,9 @@ DBに保存されている購入履歴テーブルを呼び出し、追加変更
 ![customer](https://user-images.githubusercontent.com/91583857/135558178-3645b508-b965-4d80-83e8-de654653099e.PNG)
 DBに保存されているアカウントテーブルを呼び出し、追加変更が行える画面です<br>
 同様に削除できる仕様のため、idが穴あきになっています
+
+<hr>
+
 ・商品リスト
 ![syouhin](https://user-images.githubusercontent.com/91583857/135558360-cd91b2e0-bad2-4e13-8392-bab54ae9ce1e.PNG)
 DBに保存されている商品テーブルを呼び出し、追加変更が行える画面です<br>
